@@ -64,5 +64,5 @@ ex ()
 }
 
 # prompt
-PS1='[\W]\$> '
-SUDO_PS1='mabite[\W]\$> '
+
+PS1='[\w]\$> '
